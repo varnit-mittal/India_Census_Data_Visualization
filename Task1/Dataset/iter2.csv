@@ -1,0 +1,37 @@
+State,Cluster_higher_urban_2001,Cluster_literacy_density_2001,Cluster_male_female_literacy_2001,Cluster_higher_urban_2011,Cluster_literacy_density_2011,Cluster_male_female_literacy_2011,Transition_higher_urban,Transition_literacy_density,Transition_male_female_literacy
+ANDAMAN & NICOBAR ISLANDS,Cluster 1,Cluster 1,Cluster 1,Cluster 2,Cluster 1,Cluster 1,Cluster 1 -> Cluster 2,Cluster 1 -> Cluster 1,Cluster 1 -> Cluster 1
+ANDHRA PRADESH,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2
+ARUNACHAL PRADESH,Cluster 2,Cluster 2,Cluster 3,Cluster 2,Cluster 2,Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 3 -> Cluster 2
+ASSAM,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2
+BIHAR,Cluster 2,Cluster 2,Cluster 3,Cluster 2,Cluster 2,Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 3 -> Cluster 2
+CHANDIGARH,Not Clustered,Not Clustered,Cluster 1,Cluster 1,Not Clustered,Cluster 1,Not Clustered -> Cluster 1,Not Clustered -> Not Clustered,Cluster 1 -> Cluster 1
+CHHATTISGARH,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2
+DADRA & NAGAR HAVELI,Cluster 2,Cluster 2,Cluster 3,Cluster 2,Cluster 2,Cluster 3,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 3 -> Cluster 3
+DAMAN & DIU,Cluster 1,Cluster 3,Cluster 1,Cluster 3,Cluster 3,Cluster 1,Cluster 1 -> Cluster 3,Cluster 3 -> Cluster 3,Cluster 1 -> Cluster 1
+GOA,Cluster 3,Cluster 1,Cluster 1,Cluster 1,Cluster 1,Cluster 1,Cluster 3 -> Cluster 1,Cluster 1 -> Cluster 1,Cluster 1 -> Cluster 1
+GUJARAT,Cluster 1,Cluster 1,Cluster 2,Cluster 2,Cluster 2,Cluster 3,Cluster 1 -> Cluster 2,Cluster 1 -> Cluster 2,Cluster 2 -> Cluster 3
+HARYANA,Cluster 1,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 3,Cluster 1 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 3
+HIMACHAL PRADESH,Cluster 1,Cluster 1,Cluster 1,Cluster 2,Cluster 1,Cluster 1,Cluster 1 -> Cluster 2,Cluster 1 -> Cluster 1,Cluster 1 -> Cluster 1
+JAMMU & KASHMIR,Cluster 2,Cluster 2,Cluster 3,Cluster 2,Cluster 2,Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 3 -> Cluster 2
+JHARKHAND,Cluster 2,Cluster 2,Cluster 3,Cluster 2,Cluster 2,Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 3 -> Cluster 2
+KARNATAKA,Cluster 1,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 3,Cluster 1 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 3
+KERALA,Cluster 1,Cluster 3,Cluster 1,Cluster 3,Cluster 1,Cluster 1,Cluster 1 -> Cluster 3,Cluster 3 -> Cluster 1,Cluster 1 -> Cluster 1
+LAKSHADWEEP,Cluster 2,Cluster 3,Cluster 1,Cluster 3,Cluster 3,Cluster 1,Cluster 2 -> Cluster 3,Cluster 3 -> Cluster 3,Cluster 1 -> Cluster 1
+MADHYA PRADESH,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2
+MAHARASHTRA,Cluster 1,Cluster 1,Cluster 1,Cluster 3,Cluster 1,Cluster 1,Cluster 1 -> Cluster 3,Cluster 1 -> Cluster 1,Cluster 1 -> Cluster 1
+MANIPUR,Cluster 1,Cluster 1,Cluster 2,Cluster 2,Cluster 2,Cluster 3,Cluster 1 -> Cluster 2,Cluster 1 -> Cluster 2,Cluster 2 -> Cluster 3
+MEGHALAYA,Cluster 2,Cluster 2,Cluster 3,Cluster 2,Cluster 2,Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 3 -> Cluster 2
+MIZORAM,Cluster 2,Cluster 1,Cluster 1,Cluster 2,Cluster 1,Cluster 1,Cluster 2 -> Cluster 2,Cluster 1 -> Cluster 1,Cluster 1 -> Cluster 1
+NAGALAND,Cluster 2,Not Clustered,Cluster 2,Cluster 2,Cluster 2,Cluster 3,Cluster 2 -> Cluster 2,Not Clustered -> Cluster 2,Cluster 2 -> Cluster 3
+NCT OF DELHI,Cluster 3,Cluster 1,Cluster 1,Cluster 1,Not Clustered,Cluster 1,Cluster 3 -> Cluster 1,Cluster 1 -> Not Clustered,Cluster 1 -> Cluster 1
+ODISHA,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 3,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 3
+PUDUCHERRY,Cluster 3,Cluster 3,Cluster 1,Cluster 3,Cluster 3,Cluster 1,Cluster 3 -> Cluster 3,Cluster 3 -> Cluster 3,Cluster 1 -> Cluster 1
+PUNJAB,Cluster 1,Cluster 1,Cluster 2,Cluster 3,Cluster 2,Cluster 3,Cluster 1 -> Cluster 3,Cluster 1 -> Cluster 2,Cluster 2 -> Cluster 3
+RAJASTHAN,Cluster 2,Cluster 2,Cluster 3,Cluster 2,Cluster 2,Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 3 -> Cluster 2
+SIKKIM,Cluster 2,Cluster 1,Cluster 2,Cluster 2,Cluster 1,Cluster 1,Cluster 2 -> Cluster 2,Cluster 1 -> Cluster 1,Cluster 2 -> Cluster 1
+TAMIL NADU,Cluster 1,Cluster 1,Cluster 1,Cluster 3,Cluster 1,Cluster 1,Cluster 1 -> Cluster 3,Cluster 1 -> Cluster 1,Cluster 1 -> Cluster 1
+TELANGANA,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2
+TRIPURA,Cluster 2,Cluster 1,Cluster 2,Cluster 2,Cluster 1,Cluster 1,Cluster 2 -> Cluster 2,Cluster 1 -> Cluster 1,Cluster 2 -> Cluster 1
+UTTAR PRADESH,Cluster 2,Cluster 2,Cluster 3,Cluster 2,Cluster 2,Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 3 -> Cluster 2
+UTTARAKHAND,Cluster 1,Cluster 1,Cluster 2,Cluster 2,Cluster 1,Cluster 3,Cluster 1 -> Cluster 2,Cluster 1 -> Cluster 1,Cluster 2 -> Cluster 3
+WEST BENGAL,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 2,Cluster 3,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 2,Cluster 2 -> Cluster 3
